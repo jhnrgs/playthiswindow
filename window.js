@@ -12,20 +12,20 @@ function closewindow (){
 	document.getElementById("header").innerHTML = "This is a Close Window!";
 	
 }
-sayHi(" JULFA!");
+sayHi(" HUMAN!");
 saya();
 sayb();
 sayc();
  
 function sayHi (name) {
-	alert("Hi" + name);
+	alert("HELLO " + name);
 }
 function saya () {
-	alert("BAKIT ANG PANGIT MO??"); 
+	alert("KAYA PA BA?"); 
 }
 function sayb () {
-	alert("PAKEALAM MO BA!");
+	alert("HOPING THIS THING CAN HELP.");
 }
 function sayc () {
-	alert("EDI WOW!");
+	alert("HEHE");
 }
